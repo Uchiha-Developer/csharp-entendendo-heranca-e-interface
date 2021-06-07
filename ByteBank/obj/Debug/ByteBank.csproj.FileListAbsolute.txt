@@ -1,0 +1,2 @@
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
