@@ -12,5 +12,10 @@ namespace ByteBank.Funcionarios
         {
             return Salario + base.GetBonificacao();
         }
+
+        public Diretor(string cpf) : base(string cpf) 
+        {
+            Console.WriteLine("construtor de DIRETOR");
+        }
     }
 }

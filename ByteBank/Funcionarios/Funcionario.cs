@@ -16,5 +16,14 @@ namespace ByteBank.Funcionarios
         {
             return Salario * 0.10;
         }
+
+        public static int TotalDeFuncionarios { get; private set;}
+
+        public Funcionario(string cpf) 
+        {
+            TotalDeFuncionarios++;
+            CPF = CPF;
+            Console.WriteLine("Construtor de FUNCIONARIO");
+        }
     }
 }

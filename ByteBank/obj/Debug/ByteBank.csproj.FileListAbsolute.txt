@@ -1,2 +1,7 @@
 C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
 C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\diego.p.campos\Desktop\Projetos\csharp-entendendo-heranca-e-interface\ByteBank\obj\Debug\ByteBank.pdb
