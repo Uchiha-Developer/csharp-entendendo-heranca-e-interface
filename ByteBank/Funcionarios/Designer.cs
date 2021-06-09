@@ -10,7 +10,6 @@ namespace ByteBank.Funcionarios
     {
         public Designer(string cpf) : base(3000, cpf)
         {
-
         }
 
         public override void AumentarSalario()
